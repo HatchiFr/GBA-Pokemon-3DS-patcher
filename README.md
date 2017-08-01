@@ -16,7 +16,7 @@ If you have some ROM which is unknown by the patcher, feel free to fill a PR wit
 
 ## FAQ
 *What does it do ?*  
-It fixes a GBA rom to be used with AGB_FIRM of the 3DS.
+It fixes a GBA rom to be used with AGB_FIRM of the 3DS. Without this, your save will corrupt after the Hall of Fame.
 
 *Everybody already has the CIA VC of these ROMs*  
 Probably. My next job requires me to learn Python, so I took cinq minutes to create this to train myself. I made it open-source so if someone ever requires it, it'll be there.
