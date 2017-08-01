@@ -21,10 +21,10 @@ It fixes a GBA rom to be used with AGB_FIRM of the 3DS.
 *Everybody already has the CIA VC of these ROMs*  
 Probably. My next job requires me to learn Python, so I took cinq minutes to create this to train myself. I made it open-source so if someone ever requires it, it'll be there.
 
-*Why would I use this instead of AmeenX's patching method ?*
+*Why would I use this instead of AmeenX's patching method ?*  
 Hex-editing is not convenient for everyone. This is a pretty simple way of patching it. As I've said, you don't need to use it, it was just a little training.
 
-*Why is your code so messy ?*
+*Why is your code so messy ?*  
 It's my first Python project. I am a SysAdmin, not a developper, I just code few things when I need/want to. I'll be happy to answer any PR and/or discuss with you if you have some constructive feedback about how my code quality should be improved.
 
 ## Credits
